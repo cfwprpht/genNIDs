@@ -1,0 +1,7 @@
+C:\Coding\genNIDs\genNIDs\bin\Release\genNIDs.exe.config
+C:\Coding\genNIDs\genNIDs\bin\Release\genNIDs.exe
+C:\Coding\genNIDs\genNIDs\bin\Release\genNIDs.pdb
+C:\Coding\genNIDs\genNIDs\obj\Release\genNIDs.csprojResolveAssemblyReference.cache
+C:\Coding\genNIDs\genNIDs\obj\Release\genNIDs.csproj.CoreCompileInputs.cache
+C:\Coding\genNIDs\genNIDs\obj\Release\genNIDs.exe
+C:\Coding\genNIDs\genNIDs\obj\Release\genNIDs.pdb
